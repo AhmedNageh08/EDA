@@ -15,10 +15,13 @@ Stack Overflow conducts a massive survey of people on the site, covering all sor
 
 ## Motivation
 
-We try to build a model to predict the salary(target) depending on many features and find relations between different features and how they can affect each other.
+I try to build a model to predict the salary(target) depending on many features and find relations between different features and how they can affect each other.
 
 
 ## Analysis
 
-#####We try to answer many questions : 
--
+ I have many questions about the data and i tried to answer some of them in my code file like : <br/>
+ *Are all developer studied computer science before? <br/>
+ *What's top 5 famous programing language in every count? <br/>
+ *What about the job satisfaction in every field? <br/>
+
