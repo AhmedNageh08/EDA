@@ -1,10 +1,11 @@
 # EDA
 ## Libraries
 
-.Pandas  .Numpy
-.scikit-learn
-.matplot
-.seaborn
+.Pandas<br/>
+.Numpy<br/>
+.scikit-learn<br/>
+.matplot<br/>
+.seaborn<br/>
 
 ## Motivation
 ## Analysis
