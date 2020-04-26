@@ -1,4 +1,9 @@
-## EDA
-# Libraries
-# Motivation
-# Analysis
+# EDA
+## Libraries
+.Pandas
+.Numpy
+.scikit-learn
+.matplot
+.seaborn
+## Motivation
+## Analysis
