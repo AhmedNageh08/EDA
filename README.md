@@ -20,5 +20,5 @@ We try to build a model to predict the salary(target) depending on many features
 
 ## Analysis
 
-We try to answer many questions : 
+#####We try to answer many questions : 
 -
