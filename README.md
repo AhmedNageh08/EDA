@@ -1,4 +1,4 @@
-# EDA
+## EDA
 # Libraries
 # Motivation
 # Analysis
