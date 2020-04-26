@@ -21,7 +21,7 @@ I try to build a model to predict the salary(target) depending on many features 
 ## Analysis
 
  I have many questions about the data and i tried to answer some of them in my code file like : <br/>
- *Are all developer studied computer science before? <br/>
+ *Are all developers studied computer science before? <br/>
  *What's top 5 famous programing language in every count? <br/>
- *What about the job satisfaction in every field? <br/>
-
+ *What about the job satisfaction in every developer field? <br/>
+ *How developers think about learning new things? <br/>
